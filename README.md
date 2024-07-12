@@ -1,7 +1,7 @@
 # Chatbot-LLM-Interaction
 
 ## Overview
-The primary objective of this project is to develop a chatbot that leverages Large Language Models (LLM) to assist users in planning their travels. The chatbot aims to provide personalized recommendations, detailed itineraries, and useful travel tips, making the travel planning process easier and more efficient.
+The primary objective of this project is to develop a chatbot that leverages Large Language Models (LLM) to provide user with movie recommendations.
 
 ## Technology Stack:
 - **Frontend**: Streamlit for building the user interface.
@@ -21,7 +21,7 @@ The primary objective of this project is to develop a chatbot that leverages Lar
 1. Clone the repository: `git clone https://github.com/gunjitNEU/rag-movie-recommender.git`
 2. Navigate to the project directory: `cd rag-movie-recommender`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the Streamlit application: `streamlit run finance_chatbot.py`
+4. Run the Streamlit application: `streamlit run movie_recommender.py`
 5. Open your web browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
 6. Interact with the chatbot by typing messages and receiving responses from the local LLM service.
 
